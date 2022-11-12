@@ -4,3 +4,4 @@ driver.quit();
 driver.close();
 driver.manage().window().maximize();
 driver.refresh();
+driver.navigate().back();
