@@ -3,3 +3,4 @@ driver.get("https://demo.actiime.com");
 driver.quit();
 driver.close();
 driver.manage().window().maximize();
+driver.refresh();
